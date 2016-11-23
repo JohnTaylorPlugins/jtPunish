@@ -1,0 +1,9 @@
+name: jtPunish
+version: 1.0
+author: John Taylor
+description: Lets you punish people.
+
+main: com.johntaylor.jtpunish.jtPunish
+
+commands:
+   punish:
