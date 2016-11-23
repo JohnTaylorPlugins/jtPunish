@@ -1,0 +1,278 @@
+## -=jtPunish=- ##
+
+#################################################
+## The main items that display the categories. ##
+#################################################
+
+TempMute:
+  Name: TempMute
+  Lore1: A temp mute makes you unable to
+  Lore2: speak for a certian amount of time.
+  Lore3: .
+  Lore4: .
+PermMute:
+  Name: PermMute
+  Lore1: A perm mute makes you unable to
+  Lore2: speak for ever.
+  Lore3: .
+  Lore4: .
+TempBan:
+  Name: TempBan
+  Lore1: A temp ban denies the user to join the
+  Lore2: server for a certian amount of time.
+  Lore3: .
+  Lore4: .
+PermBan:
+  Name: PermBan
+  Lore1: A perm ban denies the user to join the
+  Lore2: server for ever.
+  Lore3: .
+  Lore4: .
+
+##############
+## TempMute ##
+##############
+
+TempMute1:
+  Name: Death Threaths
+  Lore1: Death Threaths is telling people to die(kys).
+  Lore2: First Offence 1h Mute
+  Lore3: Second Offence 2h Mute
+  Lore4: Third Offence 3h Mute
+  Command: tempmute
+  Offence1Duratian: 1h
+  Offence2Duratian: 2h
+  Offence3Duratian: 3h
+  Reason: Death Threaths
+TempMute2:
+  Name: Spamming
+  Lore1: Spamming is saying the same thing over and over again.
+  Lore2: First Offence 1h Mute
+  Lore3: Second Offence 2h Mute
+  Lore4: Third Offence 3h Mute
+  Command: tempmute
+  Offence1Duratian: 1h
+  Offence2Duratian: 2h
+  Offence3Duratian: 3h
+  Reason: Spamming
+TempMute3:
+  Name: Example
+  Lore1: Example.
+  Lore2: .
+  Lore3: .
+  Lore4: .
+  Command: tempmute
+  Offence1Duratian: 1h
+  Offence2Duratian: 2h
+  Offence3Duratian: 3h
+  Reason: Example
+TempMute4:
+  Name: Example
+  Lore1: Example.
+  Lore2: .
+  Lore3: .
+  Lore4: .
+  Command: tempmute
+  Offence1Duratian: 1h
+  Offence2Duratian: 2h
+  Offence3Duratian: 3h
+  Reason: Example
+TempMute5:
+  Name: Example
+  Lore1: Example.
+  Lore2: .
+  Lore3: .
+  Lore4: .
+  Command: tempmute
+  Offence1Duratian: 1h
+  Offence2Duratian: 2h
+  Offence3Duratian: 3h
+  Reason: Example
+TempMute6:
+  Name: Example
+  Lore1: Example.
+  Lore2: .
+  Lore3: .
+  Lore4: .
+  Command: tempmute
+  Offence1Duratian: 1h
+  Offence2Duratian: 2h
+  Offence3Duratian: 3h
+  Reason: Example
+
+##############
+## PermMute ##
+##############
+
+PermMute1:
+  Name: Advertisement
+  Lore1: Adverising links to other server on our server.
+  Lore2: .
+  Lore3: .
+  Lore4: .
+  Command: mute
+  Reason: Advertising.
+PermMute2:
+  Name: Example
+  Lore1: Example.
+  Lore2: .
+  Lore3: .
+  Lore4: .
+  Command: mute
+  Reason: Example
+PermMute3:
+  Name: Example
+  Lore1: Example.
+  Lore2: .
+  Lore3: .
+  Lore4: .
+  Command: mute
+  Reason: Example
+PermMute4:
+  Name: Example
+  Lore1: Example.
+  Lore2: .
+  Lore3: .
+  Lore4: .
+  Command: mute
+  Reason: Example
+PermMute5:
+  Name: Example
+  Lore1: Example.
+  Lore2: .
+  Lore3: .
+  Lore4: .
+  Command: mute
+  Reason: Example
+PermMute6:
+  Name: Example
+  Lore1: Example.
+  Lore2: .
+  Lore3: .
+  Lore4: .
+  Command: mute
+  Reason: Example
+
+#############
+## TempBan ##
+#############
+
+TempBan1:
+  Name: Example
+  Lore1: Example.
+  Lore2: .
+  Lore3: .
+  Lore4: .
+  Command: tempban
+  Offence1Duratian: 1h
+  Offence2Duratian: 2h
+  Offence3Duratian: 3h
+  Reason: Example
+TempBan2:
+  Name: Example
+  Lore1: Example.
+  Lore2: .
+  Lore3: .
+  Lore4: .
+  Command: tempban
+  Offence1Duratian: 1h
+  Offence2Duratian: 2h
+  Offence3Duratian: 3h
+  Reason: Example
+TempBan3:
+  Name: Example
+  Lore1: Example.
+  Lore2: .
+  Lore3: .
+  Lore4: .
+  Command: tempban
+  Offence1Duratian: 1h
+  Offence2Duratian: 2h
+  Offence3Duratian: 3h
+  Reason: Example
+TempBan4:
+  Name: Example
+  Lore1: Example.
+  Lore2: .
+  Lore3: .
+  Lore4: .
+  Command: tempban
+  Offence1Duratian: 1h
+  Offence2Duratian: 2h
+  Offence3Duratian: 3h
+  Reason: Example
+TempBan5:
+  Name: Example
+  Lore1: Example.
+  Lore2: .
+  Lore3: .
+  Lore4: .
+  Command: tempban
+  Offence1Duratian: 1h
+  Offence2Duratian: 2h
+  Offence3Duratian: 3h
+  Reason: Example
+TempBan6:
+  Name: Example
+  Lore1: Example.
+  Lore2: .
+  Lore3: .
+  Lore4: .
+  Command: tempban
+  Offence1Duratian: 1h
+  Offence2Duratian: 2h
+  Offence3Duratian: 3h
+  Reason: Example
+
+#############
+## PermBan ##
+#############
+
+PermBan1:
+  Name: Example
+  Lore1: Example.
+  Lore2: .
+  Lore3: .
+  Lore4: .
+  Command: ban
+  Reason: Example
+PermBan2:
+  Name: Example
+  Lore1: Example.
+  Lore2: .
+  Lore3: .
+  Lore4: .
+  Command: ban
+  Reason: Example
+PermBan3:
+  Name: Example
+  Lore1: Example.
+  Lore2: .
+  Lore3: .
+  Lore4: .
+  Command: ban
+  Reason: Example
+PermBan4:
+  Name: Example
+  Lore1: Example.
+  Lore2: .
+  Lore3: .
+  Lore4: .
+  Command: ban
+  Reason: Example
+PermBan5:
+  Name: Example
+  Lore1: Example.
+  Lore2: .
+  Lore3: .
+  Lore4: .
+  Command: ban
+  Reason: Example
+PermBan6:
+  Name: Example
+  Lore1: Example.
+  Lore2: .
+  Lore3: .
+  Lore4: .
+  Command: ban
+  Reason: Example
